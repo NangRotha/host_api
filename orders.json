@@ -1,0 +1,17 @@
+[
+  {
+    "id": "2f67",
+    "menuItemId": "4",
+    "menuItemName": "ស្មូធីស្វាយ (Mango Smoothie)",
+    "customerName": "Linus Cook",
+    "quantity": 1,
+    "notes": "Aute autem libero mi",
+    "location": "Consectetur ex dolor",
+    "customerPhone": "+1 (661) 417-4521",
+    "orderDate": "2025-08-26T07:47:59.101Z",
+    "discountApplied": false,
+    "discountAmount": 0,
+    "appliedDiscountName": "",
+    "finalPrice": 5
+  }
+]
