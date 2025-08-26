@@ -5,7 +5,7 @@
     "type": "percentage",
     "value": "20",
     "startDate": "2025-08-26T00:00",
-    "endDate": "2025-08-27T23:59",
+    "endDate": "2025-09-27T23:59",
     "active": true
   },
   {
@@ -13,8 +13,8 @@
     "name": "ទិញផ្ទាល់",
     "type": "percentage",
     "value": "50",
-    "startDate": "1971-09-26T22:29",
-    "endDate": "2003-09-08T08:26",
+    "startDate": "2025-08-26T22:29",
+    "endDate": "2025-09-08T08:26",
     "active": true
   }
 ]
